@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="51.025623">
+    <testcase classname="Avaliação Risco de Crédito" name="Criar análise de crédito com sucesso (CMA-PJ) - BUNZL01" time="51.025623">
+        <system-out><![CDATA[Dado Eu acesso a home do site...............................................passed
+Quando Eu informo dados de login válidos....................................passed
+Então eu devo acessar a home e ver uma mensagem com o nome de usuário.......passed
+Dado eu acesso a tela de análise de crédito.................................passed
+E configuro a massa com os dados: "61.585.865/0001-51", "25/08/2020", "PONTUACAO DO SCORE (06 MESES) 22F", "#".passed
+Quando informo os seguintes dados para análise e clico em Analisar: "61.585.865/0001-51","100,00","NÃO","NÃO","NÃO","#","NÃO","NÃO","NÃO","#","NÃO","NÃO","INATIVO","0","0,00".passed
+Entao eu devo ver uma página com o resultado da análise: "RECOMENDAÇÃO DA POLÍTICA: RETAGUARDA - STATUS CNPJ DIFERENTE DE ATIVO NA RECEITA FEDERAL", "100,00".passed
+E no relatório de Decisão de Crédito ter os seguintes dados validados: "61.585.865/0001-51","100,00","NÃO","NÃO","NÃO","#","NÃO","NÃO","NÃO","#","NÃO","NÃO","INATIVO","0","0,00".passed
+]]></system-out>
+    </testcase>
+</testsuite>

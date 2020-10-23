@@ -1,0 +1,4 @@
+steps\AnaliseSteps.class
+steps\LoginSteps.class
+runner\RunnerTest.class
+hooks\Hook.class

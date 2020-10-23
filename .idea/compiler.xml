@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="salesforce" />
+        <module name="gestor_credito_mercado_externo_sem_rating" />
+        <module name="salesforce-selenium" />
+        <module name="gestor_credito_mercado_energia_sem_rating" />
+        <module name="gestor_credito_bunzl_automacao" />
+        <module name="gestor_credito_bunzl" />
+        <module name="teste2" />
+        <module name="automation_practice" />
+        <module name="gestor_credito_bunzl - Copia" />
+        <module name="seubarriga" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

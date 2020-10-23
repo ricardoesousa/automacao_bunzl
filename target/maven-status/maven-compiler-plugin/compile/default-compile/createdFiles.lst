@@ -1,0 +1,14 @@
+driver\DriverManagerFactory$1.class
+pages\Inicio.class
+driver\DriverType.class
+sql\SQLConnector.class
+pages\AnaliseCredito.class
+hooks\DefaultProperties.class
+report\Report.class
+driver\ChromeDriverManager.class
+driver\DriverManager.class
+pages\DecisaoCredito.class
+driver\DriverManagerFactory.class
+driver\EdgeDriverManager.class
+pages\Login.class
+pages\ResultadoAnalise.class
